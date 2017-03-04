@@ -1,11 +1,11 @@
 // ==UserScript==
 //
-// @name         PTH/Apollo Hide Filled on Request
-// @version      0.1
+// @name         RED/Apollo Hide Filled on Request
+// @version      0.2
 // @description  Hide filled requests on the request page.
 // @author       kjung
 // @include      http*://*apollo.rip/*
-// @include      http*://*passtheheadphones.me/*
+// @include      http*://*redacted.ch/*
 // @grant        none
 // @namespace https://greasyfork.org/en/users/6863
 // ==/UserScript==
